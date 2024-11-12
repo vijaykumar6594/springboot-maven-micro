@@ -1,0 +1,5 @@
+jdk-11
+maven-3.8.5
+sonar scanner - 3.9.1.2184
+sonarqube-9.3.0.51899-jdk-11
+nexus-3.38.0-01 -jdk-1.8
